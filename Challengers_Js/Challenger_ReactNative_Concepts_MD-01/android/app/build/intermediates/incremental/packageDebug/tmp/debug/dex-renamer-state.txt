@@ -1,0 +1,4 @@
+#Thu Apr 01 15:47:16 BRT 2021
+base.0=/Users/jonasmaciel/Dev/JavaScript_GoStack/Challengers_Js/Challenger_ReactNative_Concepts_MD-01/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
